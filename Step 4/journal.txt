@@ -1,0 +1,10 @@
+04/04/2026 2.0 hrs
+Soldering time now, Added solder to motors 3 wires x 4 
+then added solder to the ESC pads 3x4 then soldered the xt60 battery lead(red+ and black-) for power 
+also i bought a capacitor of 1k microfarad with 35v rating to reduce voltage spike and protext the esc (seen in a yt video guide) 
+then soldered the capacitor to the esc (long+ short-) now the final part, 
+solder the first motor's three wires into the esc pads 
+then i got the flow and soldered the rest of the motors into the esc then use a ribbon cable to connect esc to the fc 
+then set up the receiver wiring, then connect the xt60 with battery, the esc beeps no heat no smoke observed, ggs 
+then connected it to betaflight to check whether motors are detected or not and if anything is damaged internally or not well no problem here to and motors were detected and gyro accel/baro sensor works as well
+Tools: betaflight, soldering kit, youtube
