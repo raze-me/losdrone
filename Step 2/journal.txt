@@ -1,0 +1,4 @@
+03/04/2026 1.0 hrs
+finalized 6s bldc mortors (1950kv) and calculated the estimated weight of the quad to be about 235 to 260 grams without the battery also finalized 4s 120c 1500mah battery.
+calculated the thrust generated to be about 900 to 1200 grams per motor which is good enough for a freestyle or racing style
+Tools: google, robu store, calculator
