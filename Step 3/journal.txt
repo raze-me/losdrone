@@ -1,0 +1,8 @@
+03/04/20261.5 hrs
+Testing the fc and esc stack with betaflight by taking usb and plugging i to tthe usb port on the fc 
+then and then red blue lights will switch on indicating that its connected 
+then checking if the sensors are present and in working state or not the accelerometer, barometer and gyro were working as indicated by the above glow 
+then move the fc around in different angles to check the status of gyro then, 
+i checked the motors once 2 cw 2 ccw motor 1 & 4 cw motor 2 and 3 ccw then 
+i took the cnhl 120c 1500mah 4s battery, charged it to 4.2v each cell, then connected it to the esc, we hear beeps now to ensure the connection now we checked if they dont overheat of jitter while rotating now soldering in the next part
+Tools: betaflight, google, calculator, multimeter, lipo battery charger
