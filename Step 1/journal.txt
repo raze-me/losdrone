@@ -1,0 +1,7 @@
+02/04/20262.0 hrs
+Researched and finalized the components required for building the 5-inch,
+compared different fc, ESCs, motors, and frames based on performance budget and availablity in india.
+then selected a 5-inch mark 4 22.5cm frame suitable for stability and LOS flying
+Decided on motor KV rating (~2207 1700–1900KV for 4S/6S) 
+i ll be using speedybee fc stack f405 (best in my budget) props finalized with hqpop 5 inch aggressive ones
+Tools: google youtube chatgpt betaflight tutorials
