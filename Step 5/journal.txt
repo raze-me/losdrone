@@ -1,0 +1,9 @@
+06/04/20262.5 hrs
+Assembled the lower body of the drone Fixed the Legs one by one,
+placed esc first then stacked fc on top, screwed them tight, then identified front and back of the body 
+then placed motors at each leg M1 M4 CW and M2 M3 CCW then for the receiver anteena,
+mixed it with the wires of M1 and zip tied them for now,
+screwed in the top body, connected the xt40 connector with the battery then plugged in to the betaflight to check how's the drone's senesors are working with the body,
+everything was working well I made a mistake that i soldered first and now i have excess wire of the motor,
+i 'll have to find a fix for that as well othewise the wires might hit the propellers in future
+Tools: betaflight, screwdriver set
