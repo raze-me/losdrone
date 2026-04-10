@@ -1,0 +1,11 @@
+09/04/20262.0 hrs
+Started assembling the drone's rest body, the propellers, 
+the upper cover and the battery straps 
+Then i started with the radiomaster pocket module setting for the quad i set all the default settings (trim, pitch, senstivity) 
+then started the binding process of receiver and transmitter i put the transmitter in the BIND mode and connected battery to the drone in 3 fast plug in and out motion to set receiver in bind mode,
+the remote binded with the fc now So now to set betaflight rates for the drone 
+Added flight modes and arm disarm button, (acro, horizon and angle modes) 
+Set total motor output to 80 percent and same for the remote sticks and lastly to ensure everything placed the drone on flat leveled surface and press Calibrate accelerometer in betaflight to finlly reset gyro and other sensors 
+then its time to test the first FLIGHT! placed the drone in an open area pressed on a hard surface, plug in the battery, press the arm button, the props started rotating, VERY slowly throttle up and the drone starts to mke more noise 
+and after a threshhold it starts to hoverrr ggs, first LOS FLIGHT DONE
+Tools: betaflight
