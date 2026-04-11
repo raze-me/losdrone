@@ -71,3 +71,6 @@ Watch the assembly video guide
 
 ![Step final Image](./Step%206/rc-and-drone.jpeg
 )
+
+**Flight Video:** [Watch Video Here](https://ik.imagekit.io/kj72nqnx0/flight%20video.mp4)
+
