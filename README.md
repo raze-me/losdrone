@@ -52,7 +52,7 @@ Fully assembled the physical frame and electronics stack. Mounted the ESC, fligh
 
 Watch the assembly video guide
 
-![Assembly 1 Video](https://ik.imagekit.io/kj72nqnx0/assembly%201.mp4)
+**Assembly 1 Video:** [Watch Video Here](https://ik.imagekit.io/kj72nqnx0/assembly%201.mp4)
 
 ## Step 6
 **Date:** 09/04/2026 | **Duration:** 2.0 hrs
@@ -64,7 +64,7 @@ Completed the final drone assembly by attaching the propellers, cover, and batte
 
 Watch the assembly video guide
 
-![Assembly 3 Video](https://ik.imagekit.io/kj72nqnx0/assembly%203.mp4)
+**Assembly 3 Video:** [Watch Video Here](https://ik.imagekit.io/kj72nqnx0/assembly%203.mp4)
 
 ### Final look
 ---
