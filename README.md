@@ -4,7 +4,7 @@
 **Date:** 02/04/2026 | **Duration:** 2.0 hrs
 
 **Summary:** 
-Researched and finalized all components for a 5-inch quadcopter build. This includes selecting a Mark 4 22.5cm frame for stability, determining motor KV specifications, and choosing the SpeedyBee F405 flight controller stack alongside HQProp 5-inch aggressive propellers.
+First step in drone making is to to imagine it in yo head so, Researched and finalized all components for a 5-inch quad build. selected a Mark 4 22.5cm frame for stability, then motor KV specifications, and choosing the SpeedyBee F405 flight controller stack alongside HQProp 5-inch aggressive propellers.
 
 * **Tools Used:** Google, YouTube, ChatGPT, Betaflight tutorials
 
@@ -14,7 +14,7 @@ Researched and finalized all components for a 5-inch quadcopter build. This incl
 **Date:** 03/04/2026 | **Duration:** 1.0 hrs
 
 **Summary:** 
-Finalized the power system by selecting 1950KV 6S BLDC motors and a 1500mAh 4S 120C battery. Calculated the quadcopter's estimated bare weight (235-260g) and estimated thrust metrics (900-1200g per motor), confirming the setup is suitable for freestyle and racing flight styles.
+Finalized the power system by selecting 1950KV 6S BLDC motors and a 1500mAh 4S 120C battery (tip: never wait for the drone to tell u that battery is done, calculate ur flight time and fly only for 5 min max otherwise u' ll make yo first battery dead like me). Calculated the quadcopter's estimated bare weight (235-260g) and estimated thrust metrics (900-1200g per motor), confirming the setup is suitable for freestyle and acro racing flight styles
 
 * **Tools Used:** Google, Robu Store, Calculator
 
@@ -34,7 +34,7 @@ Conducted initial tests on the flight controller and ESC stack using Betaflight 
 **Date:** 04/04/2026 | **Duration:** 2.0 hrs
 
 **Summary:** 
-Performed the primary electrical assembly. This involved meticulously soldering the motor wires to the ESC, attaching a 1000μF 35V capacitor to protect against voltage spikes, connecting the XT60 battery leads, and wiring the receiver. The system was successfully powered up without smoke or excessive heat and was verified within Betaflight.
+Performed the soldering nd electrical assembly. This involved soldering the motor wires to the ESC, attaching a 1000μF 35V capacitor to protect against voltage spikes, connecting the XT60 battery leads, and wiring the receiver. The system was successfully powered up without smoke or excessive heat and was verified by Betaflight.
 
 * **Tools Used:** Betaflight, Soldering Kit, YouTube
 
@@ -58,7 +58,7 @@ Watch the assembly video guide
 **Date:** 09/04/2026 | **Duration:** 2.0 hrs
 
 **Summary:** 
-Completed the final drone assembly by attaching the propellers, cover, and battery straps. Bound the RadioMaster transmitter to the quadcopter and configured Betaflight with specific flight rates, an 80% motor output cap, and mapped switches for flight modes (Acro, Horizon, Angle) as well as the arm button. After calibrating the accelerometer, the project smoothly culminated in a successful inaugural line-of-sight (LOS) hover test!
+Completed the final drone assembly by attaching the propellers, cover, and battery straps. Bound the RadioMaster transmitter to the quadcopter and configured Betaflight with specific flight rates, an 80% motor output cap, and mapped switches for flight modes (Acro, Horizon, Angle) as well as the arm button. After calibrating the accelerometer, the project was a success,  i then did my first line-of-sight (LOS) hover test!
 
 * **Tools Used:** Betaflight
 
